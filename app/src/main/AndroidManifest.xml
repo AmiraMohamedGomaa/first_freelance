@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amira.freelance" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher3"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher3_round"
+        android:supportsRtl="false"
+        android:theme="@style/Theme.Freelance" >
+        <activity
+            android:name=".CheckActivity"
+            android:exported="false" />
+        <activity
+            android:name=".makhareg.lesan.KindOfTarafLesanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".makhareg.lesan.TarafLesanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".makhareg.lesan.KindOfLesanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".makhareg.lesan.LesanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".makhareg.KindOfMakharegActivity"
+            android:exported="false" />
+        <activity
+            android:name=".makhareg.ReadMoreActivity"
+            android:exported="false" />
+        <activity
+            android:name=".makhareg.MakharegActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sefat.AridaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sefat.lazemaNotHasDed.KalkalaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sefat.lazemaNotHasDed.SaferActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sefat.lazemaHasDed.ShedaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sefat.lazemaHasDed.HamsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sefat.lazemaHasDed.SefatHasDedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sefat.lazemaNotHasDed.SefatNotHasDedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sefat.SefatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdgeOfLetters"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".sefat.lazemaHasDed.SefatHasDedActivity">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.05" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.1" />
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.90" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:text="صفات لازمة لها ضد"
+        android:textAlignment="center"
+        android:textColor="@color/red"
+        android:textSize="@dimen/_20ssp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/guideline6"
+        app:layout_constraintHorizontal_bias="0.63"
+        app:layout_constraintStart_toStartOf="@+id/guideline5"
+        app:layout_constraintTop_toTopOf="@id/guideline4" />
+
+    <Button
+        android:id="@+id/btn_hams"
+        android:layout_width="0dp"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/button_custom"
+        android:text="الهمس X الجهر "
+        android:textColor="@color/brown"
+        android:textSize="@dimen/_14ssp"
+        app:layout_constraintEnd_toStartOf="@+id/guideline6"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/guideline5"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/btn_sheda"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:background="@drawable/button_custom"
+        android:text="الشدة-البينية-الرخاوة"
+        android:textSize="@dimen/_14ssp"
+        android:textColor="@color/brown"
+        app:layout_constraintEnd_toEndOf="@+id/btn_hams"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/btn_hams"
+        app:layout_constraintTop_toBottomOf="@+id/btn_hams" />
+
+    <Button
+        android:id="@+id/btn_estala"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:background="@drawable/button_custom"
+        android:text="الاستعلاء X الاستفال"
+        android:textSize="@dimen/_14ssp"
+        android:textColor="@color/brown"
+        app:layout_constraintEnd_toEndOf="@+id/btn_sheda"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/btn_sheda"
+        app:layout_constraintTop_toBottomOf="@+id/btn_sheda" />
+
+    <Button
+        android:id="@+id/btn_etbaq"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:background="@drawable/button_custom"
+        android:text="الاطباق X الانفتاح"
+        android:textColor="@color/brown"
+        android:textSize="@dimen/_14ssp"
+        app:layout_constraintEnd_toEndOf="@+id/btn_estala"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintStart_toStartOf="@+id/btn_estala"
+        app:layout_constraintTop_toBottomOf="@+id/btn_estala" />
+
+    <Button
+        android:id="@+id/btn_ezlaq"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:background="@drawable/button_custom"
+        android:text="الاذلاق X الاصمات"
+        android:textColor="@color/brown"
+        android:textSize="@dimen/_14ssp"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintEnd_toEndOf="@+id/btn_etbaq"
+        app:layout_constraintStart_toStartOf="@+id/btn_etbaq"
+        app:layout_constraintTop_toBottomOf="@+id/btn_etbaq" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

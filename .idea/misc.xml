@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/drawable/button_custom.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/drawable/web_custom.xml" value="0.1787037037037037" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout-ldrtl/sefat_lazema.xml" value="0.17255434782608695" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_adge_of_letters.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_arida.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_check.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_enhraf.xml" value="0.14" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_estala.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_estetala.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_etbaq.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_ezlaq.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_gonaa.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_hams.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_kalkala_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_khafa.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_kind_of_lesan.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_kind_of_makhareg.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_kind_of_taraf_lesan.xml" value="0.16898148148148148" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_len.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_lesan.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_makhareg.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_read_more.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_safer.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_sefat.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_sefat_has_ded.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_sefat_lazema.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_sheda.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_tafasi.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_takrer.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/layout/activity_taraf_lesan.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/Freelance/app/src/main/res/mipmap-anydpi-v26/ic_launcher2_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
