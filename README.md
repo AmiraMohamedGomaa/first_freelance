@@ -1,5 +1,4 @@
-# first_freelance
-This App is spacialist in Quran recitation
+# first_freelance App spacialist in Quran recitation
 ![1](https://user-images.githubusercontent.com/47347255/149286614-19425ef3-f1ec-4c07-8244-5f3e7117dc0a.jpeg)
 ![2](https://user-images.githubusercontent.com/47347255/149286639-5b0cfc2c-d7ad-4515-bb58-eb95bd176c31.jpeg)
 ![3](https://user-images.githubusercontent.com/47347255/149286659-596b4e24-e398-4c67-a917-8e7c3c41936a.jpeg)
