@@ -175,7 +175,7 @@
         android:layout_marginEnd="@dimen/_10sdp"
         android:textColor="@color/black"
         android:textSize="@dimen/_14ssp"
-        android:text="الدليل:قَلْـقَلَـةٌ قُـطْـبُ جَـدٍّ وَاللِّـينُ"
+        android:text="الدليل من متن الجزرية : قَلْـقَلَـةٌ قُـطْـبُ جَـدٍّ وَاللِّـينُ"
         app:layout_constraintEnd_toStartOf="@+id/guideline6"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="@+id/guideline5"

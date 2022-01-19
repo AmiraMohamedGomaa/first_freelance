@@ -4,7 +4,7 @@ public class Estala {
     public static String title="5-صفة الاستعلاء";
     public static String loqtan="الارتفاع والعلو";
     public static String estlah="هو ارتفاع جزء من اللسان إلى الحنك الأعلى عند النطق بحروفه";
-    public static String horof="خص ضغط قظ";;
+    public static String horof="خص ضغط قظ";
     public static String dalil="الدليل من متن الجزرية : وسبع علو خص ضغط قظ حصر";
 
     ////////////////////////

@@ -5,7 +5,7 @@ public class Etbaq {
     public static String loqtan="الإلصاق";
     public static String estlah="إلصاق جزء كبير من اللسان بالحنك الأعلى أو محاذاته محاذاة شديدة عند النطق بحروفه فينحصر الصوت بينهما";
     public static String horof="ط -ض -ص -ظ";
-    public static String dalil="الدليل:وَصَـادُ ضَـادٌ طَـاءُ ظَـاءٌ مُطْبَـقَـهْ";
+    public static String dalil="الدليل من متن الجزرية:وَصَـادُ ضَـادٌ طَـاءُ ظَـاءٌ مُطْبَـقَـهْ";
     public static String text3="⦁\tالإطباق أخص من الاستعلاء، فكل مطبق مستعل، وليس كل مستعل مطبق.\n" +
             "⦁\tوالانفتاح أعم من الاستفال، فكل مستفل منفتح، لكن ليس كل منفتح مستفل.\n";
 

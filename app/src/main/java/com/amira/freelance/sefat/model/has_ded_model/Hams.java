@@ -4,7 +4,7 @@ public class Hams {
     public static String title="1-صفة الهمس";
     public static String loqtan="الخفاء";
     public static String estlah="هو جريان النفس عند النطق بالحرف";
-    public static String horof="فحثه شخص سكت";;
+    public static String horof="فحثه شخص سكت";
     public static String dalil="الدليل من متن الجزرية: مهموسها فحثه شخص سكت";
 
     ////////////////////////

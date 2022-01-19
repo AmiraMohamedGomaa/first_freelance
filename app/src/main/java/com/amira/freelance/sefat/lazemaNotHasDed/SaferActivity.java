@@ -59,7 +59,8 @@ public class SaferActivity extends AppCompatActivity {
             saferBinding.txtLogatan.setText(Gona.loqtan);
             saferBinding.txtEstelah.setText(Gona.estlah);
             saferBinding.txtHorof.setText(Gona.horof);
-            saferBinding.txtDalil.setText(Gona.dalil2);
+            //saferBinding.txtDalil.setText(Gona.dalil2);
+            saferBinding.txtDalil.setVisibility(View.GONE);
             saferBinding.textView33.setText(Gona.text3);
             saferBinding.txt4.setVisibility(View.GONE);
             saferBinding.txt42.setVisibility(View.GONE);

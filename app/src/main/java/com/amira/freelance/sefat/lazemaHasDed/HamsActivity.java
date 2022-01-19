@@ -31,7 +31,7 @@ ActivityHamsBinding hamsBinding;
             hamsBinding.dalilTxt1.setText(Estala.dalil);
             hamsBinding.textView3.setVisibility(View.GONE);
             ////////////////////////
-            hamsBinding.titleTxt2.setText(Estala.title);
+            hamsBinding.titleTxt2.setText(Estala.title2);
             hamsBinding.txtLogatan2.setText(Estala.loqtan2);
             hamsBinding.txtEstelah2.setText(Estala.estlah2);
             hamsBinding.txtHorof2.setText(Estala.horof2);
@@ -44,7 +44,7 @@ ActivityHamsBinding hamsBinding;
             hamsBinding.dalilTxt1.setText(Etbaq.dalil);
             hamsBinding.textView3.setText(Etbaq.text3);
             ////////////////////////
-            hamsBinding.titleTxt2.setText(Etbaq.title);
+            hamsBinding.titleTxt2.setText(Etbaq.title2);
             hamsBinding.txtLogatan2.setText(Etbaq.loqtan2);
             hamsBinding.txtEstelah2.setText(Etbaq.estlah2);
             hamsBinding.txtHorof2.setText(Etbaq.horof2);
@@ -57,7 +57,7 @@ ActivityHamsBinding hamsBinding;
             hamsBinding.dalilTxt1.setText(Hams.dalil);
             hamsBinding.textView3.setVisibility(View.GONE);
             ////////////////////////
-            hamsBinding.titleTxt2.setText(Hams.title);
+            hamsBinding.titleTxt2.setText(Hams.title2);
             hamsBinding.txtLogatan2.setText(Hams.loqtan2);
             hamsBinding.txtEstelah2.setText(Hams.estlah2);
             hamsBinding.txtHorof2.setText(Hams.horof2);
@@ -70,7 +70,7 @@ ActivityHamsBinding hamsBinding;
             hamsBinding.dalilTxt1.setText(Ezlaq.dalil);
             hamsBinding.textView3.setVisibility(View.GONE);
             ////////////////////////
-            hamsBinding.titleTxt2.setText(Ezlaq.title);
+            hamsBinding.titleTxt2.setText(Ezlaq.title2);
             hamsBinding.txtLogatan2.setText(Ezlaq.loqtan2);
             hamsBinding.txtEstelah2.setText(Ezlaq.estlah2);
             hamsBinding.txtHorof2.setText(Ezlaq.horof2);

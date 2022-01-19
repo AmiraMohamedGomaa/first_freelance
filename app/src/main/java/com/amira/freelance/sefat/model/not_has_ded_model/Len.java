@@ -6,5 +6,6 @@ public class Len {
     public static String estlah="هو خروج الحرف من مخرجه بسهولة ويسر بدون كلفة علي اللسان ";
     public static String horof="الواو والياء الساكنتين المفتوح ما قبلها ( َ و ، َ ى )";
     public static String text3="سميت بحروف اللين: لأنها شبهت الألف في فتح ما قبلها ";
-    public static String dalil2="الدليل من متن الجزرية:     واللين واو وياء سكنا وانفتحا قبلهما   ";
+    public static String dalil2="الدليل من متن الجزرية: واللين                \n" +
+            "  واو وياء سكنا وانفتحا قبلهما   \n";
 }
